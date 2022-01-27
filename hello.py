@@ -1,2 +1,2 @@
-def hello_gist:
+def hello_gist():
   return x+y
